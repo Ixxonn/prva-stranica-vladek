@@ -1,1 +1,2 @@
-# prva-stranica-vladek
+Vladek
+Ovo je stranica od Vladeka
