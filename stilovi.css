@@ -8,4 +8,30 @@ img {
 .marica {
     font-size: larger;
     
+
+}
+#divone {
+    border-style: solid;
+    border-color: blue;
+    padding: 30px;
+    background-color: pink;
+    border-width: 3px;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+#divtwo{
+    border-style: solid;
+    border-color: purple;
+    background-color: aqua;
+    margin: 10px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+#divthree{
+    border-style: solid;
+    background-color: orange;
+    padding: 30px;
+    margin-right: 240px;
+    margin-left: 500px;
 }
